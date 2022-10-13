@@ -1,2 +1,2 @@
 # AwsPython
-AWS and Python Projects
+AWS and Python Operations
